@@ -1,10 +1,27 @@
-Simple Java Calculator -  A simple and interactive command-line calculator written in Java. 
-                          This program performs basic arithmetic operations including addition, subtraction, multiplication, division and exponentiation.
-                          It's perfect for beginners who want to learn Java fundamentals like user input, control flow, and operators.
+## 🧮 Java Calculator – Console Application
 
-How It Works ? 
-              The program prompts the user to input two numbers.
-              Then, it asks the user to choose an operation: +, -, *, /, or ^.
-              A switch statement matches the chosen operator and performs the operation.
-              The result is calculated and printed in the terminal.
-              If the user enters an unsupported operator, an error message is displayed.
+## 📖 Project Description
+
+* The Java Calculator is a simple console-based application developed using Java.
+* It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division and power calculations by entering numbers and selecting an operator through the terminal.
+* This project helps beginners understand user input handling, switch-case statements and basic program logic in Java.
+
+## 🛠️ Technologies Used
+
+* Java
+* Scanner Class (for user input)
+* Math Library (for power operation)
+
+## 🖥️ How It Works
+
+* User enters two numbers
+* User selects an operator (+, -, *, /, ^)
+* Program performs the calculation using switch-case
+* Displays the final result in the console
+
+## ⚙️ Features
+
+* Addition, Subtraction, Multiplication, Division
+* Power Calculation ( ^ )
+* User-friendly console interaction
+* Simple and beginner-friendly logic
